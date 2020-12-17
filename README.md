@@ -1,4 +1,4 @@
-## I'm Jatin 👋
+## Hi there, I'm Jatin 👋
 ### I'm a Student, Full-stack Android and Web Developer and Compititve Programmer!
 
 <img src="https://github-readme-stats.vercel.app/api?username=bansaljatin05&&show_icons=true&theme=chartreuse-dark&count_private=true" />
