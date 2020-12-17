@@ -1,16 +1,16 @@
-### Hi there 👋
+## I'm Jatin 👋
+### I'm a Student, Full-stack Android and Web Developer and Compititve Programmer!
 
-<!--
-**bansaljatin05/bansaljatin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=bansaljatin05&&show_icons=true&theme=chartreuse-dark&count_private=true" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a Student at Punjab Engineering College, Chandigarh, India
+- 🌱 I’m currently learning Android App Development with Flutter
+- 💬 Ask me about anything!
+- ⚡ Fun fact: I love to code and listen music!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<a href="https://www.linkedin.com/in/jatin-bansal-a48333192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/bansaljatin05/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
+### Languages and Tools:
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp; <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/firebase.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
