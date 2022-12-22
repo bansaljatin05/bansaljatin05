@@ -1,8 +1,6 @@
 ## Hi there, I'm Jatin 👋
 ### I'm a Student, Full-stack Android and Web Developer and Competitve Programmer!
 
-<img src="https://github-readme-stats.vercel.app/api?username=bansaljatin05&&show_icons=true&theme=chartreuse-dark&count_private=true" />
-
 - 🔭 I’m currently a Student at Punjab Engineering College, Chandigarh, India
 - 🌱 I’m currently learning Android App Development with Flutter
 - 💬 Ask me about anything!
